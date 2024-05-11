@@ -18,7 +18,11 @@ redirect_from:
 
 # 🗞️ News
 
+Coming soon!! 
+
 # 🧫 Selected Experience
+
+Coming soon!! 
 
 
 
