@@ -4,8 +4,11 @@ main:
   - title: "CV"
     url: /files/CV.pdf
 
-  - title: "Portfolio"
+  - title: "Experience"
     url: /portfolio/
+
+  - title: "Competitions"
+    url: /competitions/
 
   - title: "Publications"
     url: /publications/
