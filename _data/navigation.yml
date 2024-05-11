@@ -5,7 +5,7 @@ main:
     url: /files/CV.pdf
 
   - title: "Experience"
-    url: /portfolio/
+    url: /experience/
 
   - title: "Competitions"
     url: /competitions/
