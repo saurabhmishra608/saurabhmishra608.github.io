@@ -24,7 +24,8 @@ author:
   avatar           : "profile_pic.png"
   name             : "Saurabh Mishra"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am currently working as a data scientist at [Navi Technologies](https://navi.com). I graduated top of major, and received my Bachelors from the Department of Electrical Engineering IIT Kharagpur, pursuing my B.Tech. in Instrumentation Engineering. I received my Masters in Artificial Intelligence from Centre of Excellence in Artificial Intelligence, IIT Kharagpur. 
+                      As part of my thesis, I worked under supervision of Prof. Debdoot Sheet on desgining memory efficient learning framework for Whole Slide Image (WSI) classification and compression. My research interest lies in applications of AI in healthcare and autonomous vehicles. Feel free to check out my [resume](https://drive.google.com/file/d/1K8YA1ftJVm2EHYR5W6OYcTUxtSXM88r_/view?usp=drive_link) and drop me an [e-mail](saurabhmishra608@gmail.com) if you want to chat with me!"
   location         : "Bangalore,India"
   employer         : "Indian Institute of Technology Kharagpur"
   uri              : # URL
