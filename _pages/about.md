@@ -18,9 +18,19 @@ redirect_from:
 
 # 🗞️ News
 
-- **May 2024:** Started new position as Senior Developer at XYZ Company.
-- **March 2024:** Presented at Tech Conference on AI and Machine Learning.
-- **January 2024:** Completed certification in Web Development.
+- **July 2024:** Started new position as Data Scientist at [Navi Technologies](https://navi.com).
+- **April 2024:** Won silver medal at the Inter Hall Tech General Championship 2024 in the Hardware modelling event. 
+- **November 2023:** Emerged as second runner up at American Express Campus Super Bowl Challenge 2023.
+- **July 2023:** Research work titled *Characteristics of Central Retinal Blood Vessels in Myopia: Analysis of Ultra-Wide Field Images Using Image Processing* accepted at ARVO India Annual Meeting 2023 for [poster presentation](https://www.researchgate.net/publication/374781933_Morphological_Characteristics_of_Central_Retinal_Blood_Vessels_in_Myopia_Analysis_of_Ultra-Wide_Field_Images_Using_Image_Processing).
+- **May 2023:** Started as a summer research intern at University of Waterloo under Prof. Vasudevan Lakshminarayanan.
+- **December 2022:** Offered MITACS Globalink Research Internship at University of Waterloo.
+- **December 2022:** Started as a Computer Vision intern at Culinda Inc.
+- **May 2022:** Started as a Software Development intern at MathWorks.
+- **February 2022:** Authored a [review paper](http://dx.doi.org/10.13140/RG.2.2.24618.18880) on the publication *Fourier Domain Adaptation for Semantic Segmentation* as part of ML Reproducibilty Challenge 2021.
+- **December 2021:** Started as a Undergrad researcher at [KLIV](https://iitkliv.github.io/) lab, IIT Kharagpur under Prof. Debdoot Sheet.
+- **March 2021:** Authored a [review paper](https://arxiv.org/abs/2104.14749) on the publication *Fourier Domain Adaptation for Semantic Segmentation* as part of ML Reproducibilty Challenge 2020.
+- **March 2020:** Joined the [Autonomous Ground Vehicle Research Group](http://www.agv.iitkgp.ac.in) led by Prof. Debashish Chakravarty as Mechatronics and DL team member. 
+- **July 2019:** Started my undergrad at IIT Kharagpur!
 
 # 🧫 Selected Experience
 
