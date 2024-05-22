@@ -18,7 +18,9 @@ redirect_from:
 
 # 🗞️ News
 
-Coming soon!! 
+- **May 2024:** Started new position as Senior Developer at XYZ Company.
+- **March 2024:** Presented at Tech Conference on AI and Machine Learning.
+- **January 2024:** Completed certification in Web Development.
 
 # 🧫 Selected Experience
 
