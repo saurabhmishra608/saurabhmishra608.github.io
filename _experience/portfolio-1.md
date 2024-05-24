@@ -1,5 +1,5 @@
 ---
-title: "Mitacs Globalink Research Intern \| University of Waterloo"
+title: "Mitacs Globalink Research Intern || University of Waterloo"
 excerpt: "Worked under the supervision of [Prof. Vasudevan Laxminaryan](https://uwaterloo.ca/optometry-vision-science/profile/vengu) on investigating changes in the morphological features of retinal blood vessels in myopia in collaboration with Sankara Nethralaya. <br/><img src='/images/UoW_logo.png'>"
 collection: experience
 ---
