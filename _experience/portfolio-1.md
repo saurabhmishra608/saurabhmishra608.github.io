@@ -1,6 +1,6 @@
 ---
 title: "Mitacs Globalink Research Intern &#124; University of Waterloo"
-excerpt: "<img src='/images/UoW_logo.png' width='200' height='200'> | <span style='font-size: 20px;'>Worked under the supervision of [Prof. Vasudevan Laxminaryan](https://uwaterloo.ca/optometry-vision-science/profile/vengu) on investigating changes in the morphological features of retinal blood vessels in myopia in collaboration with Sankara Nethralaya.</span>"
+excerpt: "<img src='/images/UoW_logo.png' width='600' height='600'> | <span style='font-size: 18px;'>Worked under the supervision of [Prof. Vasudevan Laxminaryan](https://uwaterloo.ca/optometry-vision-science/profile/vengu) on investigating changes in the morphological features of retinal blood vessels in myopia in collaboration with Sankara Nethralaya.</span>"
 collection: experience
 ---
 
