@@ -14,11 +14,15 @@
 import glob
 import getorg
 from geopy import Nominatim
+from geopy.extra.rate_limiter import RateLimiter
 
 g = glob.glob("*.md")
 
 
-geocoder = Nominatim()
+# geopy's Nominatim now requires a user_agent parameter
+geocoder = Nominatim(user_agent="talkmap")
+# Respect Nominatim usage policy by limiting request rate
+geocode = RateLimiter(geocoder.geocode, min_delay_seconds=1)
 location_dict = {}
 location = ""
 permalink = ""
@@ -26,6 +30,7 @@ title = ""
 
 
 for file in g:
+    location = ""
     with open(file, 'r') as f:
         lines = f.read()
         if lines.find('location: "') > 1:
@@ -35,8 +40,9 @@ for file in g:
             location = lines_trim[:loc_end]
                             
            
-        location_dict[location] = geocoder.geocode(location)
-        print(location, "\n", location_dict[location])
+        if location:
+            location_dict[location] = geocode(location)
+            print(location, "\n", location_dict[location])
 
 
 m = getorg.orgmap.create_map_obj()
